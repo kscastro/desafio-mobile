@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "500999434803",
+    "firebase_url": "https://mobilestone-16397.firebaseio.com",
+    "project_id": "mobilestone-16397",
+    "storage_bucket": "mobilestone-16397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500999434803:android:b757a1a3e678450b",
+        "android_client_info": {
+          "package_name": "br.com.kaike.mobilestone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500999434803-6d1kp556heou4bqm763qpmo0t81atfiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.kaike.mobilestone",
+            "certificate_hash": "ec4fc7b2d65b59d8cadd46303713e1b425bfd3b4"
+          }
+        },
+        {
+          "client_id": "500999434803-94dfu47bdg508cmagofcem8fekfngbvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACyYHFNGgmlGvqXuF3B_EoiQYtsPGn4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500999434803-94dfu47bdg508cmagofcem8fekfngbvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
